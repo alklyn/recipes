@@ -1,0 +1,9 @@
+Ingredients:
+-bacon
+-lettuce
+-tomato
+-bread
+
+Direction:
+-fry bacon
+-place bacon lettuce & tomato between two slices of bread
