@@ -2,7 +2,7 @@ Ingredients:
 -bacon
 -lettuce
 -tomato
--bread
+-wholewheat bread
 
 Direction:
 -fry bacon
